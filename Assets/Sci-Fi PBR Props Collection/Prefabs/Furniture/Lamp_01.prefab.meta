@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4ce5620109cc8d944b8f36d5efcd4cf0
+timeCreated: 1525268880
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200315
+  packageName: Sci-Fi PBR Props Collection
+  packageVersion: 1.0
+  assetPath: Assets/Data/Sci-fi_assets/Sci-Fi PBR Props Collection/Prefabs/Furniture/Lamp_01.prefab
+  uploadId: 453505

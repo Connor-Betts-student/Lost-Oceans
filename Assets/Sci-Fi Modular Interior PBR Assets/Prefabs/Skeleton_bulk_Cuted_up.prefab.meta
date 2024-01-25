@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2b4531e9a05db574c9cc86836bc49c2d
+timeCreated: 1527766327
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200326
+  packageName: Sci-Fi Modular Interior PBR Assets
+  packageVersion: 1.0
+  assetPath: Assets/Data/Sci-fi_assets/Sci-Fi Modular Interior PBR Assets/Prefabs/Skeleton_bulk_Cuted_up.prefab
+  uploadId: 453516

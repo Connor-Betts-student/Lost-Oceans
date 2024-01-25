@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 724e3ce69605e714a9da6eb742af27e4
+timeCreated: 1506856836
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200326
+  packageName: Sci-Fi Modular Interior PBR Assets
+  packageVersion: 1.0
+  assetPath: Assets/Data/Sci-fi_assets/Sci-Fi Modular Interior PBR Assets/Data/Textures/Floors_and_walls/Floor_new_02/FloorNew_02.mat
+  uploadId: 453516

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f06653963760d824f8cecda4d457202b
+timeCreated: 1493304537
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200315
+  packageName: Sci-Fi PBR Props Collection
+  packageVersion: 1.0
+  assetPath: Assets/Data/Sci-fi_assets/Sci-Fi PBR Props Collection/Prefabs/WallAdds/Fuse_box_08.prefab
+  uploadId: 453505

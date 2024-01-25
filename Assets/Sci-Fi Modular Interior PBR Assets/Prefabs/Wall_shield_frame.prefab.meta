@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d618ed1504fb4504b83b69c9a61fef67
+timeCreated: 1490881822
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200326
+  packageName: Sci-Fi Modular Interior PBR Assets
+  packageVersion: 1.0
+  assetPath: Assets/Data/Sci-fi_assets/Sci-Fi Modular Interior PBR Assets/Prefabs/Wall_shield_frame.prefab
+  uploadId: 453516

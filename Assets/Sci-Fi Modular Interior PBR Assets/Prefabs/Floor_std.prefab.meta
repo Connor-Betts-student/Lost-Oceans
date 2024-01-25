@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ecc4c1c0c3ef5944aa576919e82dc122
+timeCreated: 1491648894
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200326
+  packageName: Sci-Fi Modular Interior PBR Assets
+  packageVersion: 1.0
+  assetPath: Assets/Data/Sci-fi_assets/Sci-Fi Modular Interior PBR Assets/Prefabs/Floor_std.prefab
+  uploadId: 453516

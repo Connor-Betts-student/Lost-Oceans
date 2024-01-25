@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f2848a568433198449f9417e739f76b8
+timeCreated: 1495971614
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200326
+  packageName: Sci-Fi Modular Interior PBR Assets
+  packageVersion: 1.0
+  assetPath: Assets/Data/Sci-fi_assets/Sci-Fi Modular Interior PBR Assets/Data/Textures/Floors_and_walls/Sub_walls_parts/Sub_wall_part.mat
+  uploadId: 453516

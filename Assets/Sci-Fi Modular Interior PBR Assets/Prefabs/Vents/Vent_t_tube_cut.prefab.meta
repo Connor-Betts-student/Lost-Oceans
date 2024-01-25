@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b3741da9dd67aa548892d3c3dad0f1c2
+timeCreated: 1531350058
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200326
+  packageName: Sci-Fi Modular Interior PBR Assets
+  packageVersion: 1.0
+  assetPath: Assets/Data/Sci-fi_assets/Sci-Fi Modular Interior PBR Assets/Prefabs/Vents/Vent_t_tube_cut.prefab
+  uploadId: 453516

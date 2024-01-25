@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9d7b3997ae432e94c9c43cf53ce27697
+timeCreated: 1522279348
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200315
+  packageName: Sci-Fi PBR Props Collection
+  packageVersion: 1.0
+  assetPath: Assets/Data/Sci-fi_assets/Sci-Fi PBR Props Collection/Prefabs/Props/Bot_01.prefab
+  uploadId: 453505

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0c91af2c232f2e34c85d5a8a773596b1
+timeCreated: 1524515412
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200315
+  packageName: Sci-Fi PBR Props Collection
+  packageVersion: 1.0
+  assetPath: Assets/Data/Sci-fi_assets/Sci-Fi PBR Props Collection/Data/Textures/Props/Pack_15/Pack_15_A.mat
+  uploadId: 453505
