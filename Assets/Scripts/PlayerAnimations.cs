@@ -102,5 +102,35 @@ public class RunningButton : MonoBehaviour
         {
             Player_Animations.SetBool("BoolWalkBackward", false);
         }
+
+
+
+        if (Input.GetKeyDown(KeyCode.LeftShift) && Input.GetKeyDown(KeyCode.D))
+        {
+            Player_Animations.SetBool("BoolRunRight", true);
+        }
+        if (Input.GetKey(KeyCode.LeftShift) && Input.GetKey(KeyCode.D))
+        {
+            Player_Animations.SetBool("BoolRunRight", true);
+        }
+        if (Input.GetKeyUp(KeyCode.LeftShift) || Input.GetKeyUp(KeyCode.D))
+        {
+            Player_Animations.SetBool("BoolRunRight", false);
+        }
+
+
+
+        if (Input.GetKeyDown(KeyCode.LeftShift) && Input.GetKeyDown(KeyCode.A))
+        {
+            Player_Animations.SetBool("BoolRunLeft", true);
+        }
+        if (Input.GetKey(KeyCode.LeftShift) && Input.GetKey(KeyCode.A))
+        {
+            Player_Animations.SetBool("BoolRunLeft", true);
+        }
+        if (Input.GetKeyUp(KeyCode.LeftShift) || Input.GetKeyUp(KeyCode.A))
+        {
+            Player_Animations.SetBool("BoolRunLeft", false);
+        }
     }
 }
