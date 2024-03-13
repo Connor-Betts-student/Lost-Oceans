@@ -63,10 +63,12 @@ public class RunningButton : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.A))
         {
             Player_Animations.SetBool("BoolLeft", true);
+            Player_Animations.SetBool("BoolRight", false);
         }
         if (Input.GetKey(KeyCode.A))
         {
             Player_Animations.SetBool("BoolLeft", true);
+            Player_Animations.SetBool("BoolRight", false);
         }
         if (Input.GetKeyUp(KeyCode.A))
         {
@@ -78,10 +80,12 @@ public class RunningButton : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.D))
         {
             Player_Animations.SetBool("BoolRight", true);
+            Player_Animations.SetBool("BoolLeft", false);
         }
         if (Input.GetKey(KeyCode.D))
         {
             Player_Animations.SetBool("BoolRight", true);
+            Player_Animations.SetBool("BoolLeft", false);
         }
         if (Input.GetKeyUp(KeyCode.D))
         {
@@ -108,10 +112,12 @@ public class RunningButton : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.LeftShift) && Input.GetKeyDown(KeyCode.D))
         {
             Player_Animations.SetBool("BoolRunRight", true);
+            Player_Animations.SetBool("BoolRunLeft", false);
         }
         if (Input.GetKey(KeyCode.LeftShift) && Input.GetKey(KeyCode.D))
         {
             Player_Animations.SetBool("BoolRunRight", true);
+            Player_Animations.SetBool("BoolRunLeft", false);
         }
         if (Input.GetKeyUp(KeyCode.LeftShift) || Input.GetKeyUp(KeyCode.D))
         {
@@ -123,10 +129,12 @@ public class RunningButton : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.LeftShift) && Input.GetKeyDown(KeyCode.A))
         {
             Player_Animations.SetBool("BoolRunLeft", true);
+            Player_Animations.SetBool("BoolRunRight", false);
         }
         if (Input.GetKey(KeyCode.LeftShift) && Input.GetKey(KeyCode.A))
         {
             Player_Animations.SetBool("BoolRunLeft", true);
+            Player_Animations.SetBool("BoolRunRight", false);
         }
         if (Input.GetKeyUp(KeyCode.LeftShift) || Input.GetKeyUp(KeyCode.A))
         {
@@ -150,7 +158,25 @@ public class RunningButton : MonoBehaviour
         if (Input.GetKeyUp(KeyCode.A) || Input.GetKeyUp(KeyCode.W))
         {
             Player_Animations.SetBool("DiagWalkLeft", false);
+        }
+
+
+
+        if (Input.GetKeyDown(KeyCode.D) && Input.GetKeyDown(KeyCode.W))
+        {
+            Player_Animations.SetBool("DiagWalkRight", true);
             Player_Animations.SetBool("BoolWalk", false);
+            Player_Animations.SetBool("BoolRight", false);
+        }
+        if (Input.GetKey(KeyCode.D) && Input.GetKey(KeyCode.W))
+        {
+            Player_Animations.SetBool("DiagWalkRight", true);
+            Player_Animations.SetBool("BoolWalk", false);
+            Player_Animations.SetBool("BoolRight", false);
+        }
+        if (Input.GetKeyUp(KeyCode.D) || Input.GetKeyUp(KeyCode.W))
+        {
+            Player_Animations.SetBool("DiagWalkRight", false);
         }
     }
 }
