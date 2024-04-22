@@ -12,13 +12,13 @@ public class ObjectInteract : MonoBehaviour
     public OpenDoor OpenDoor;
     public void Interact()
     {
-        if (isPowered != true) 
+        if (isPowered != true)
         {
             ObjectiveText.SetText("Turn on the backup generator");
             PowerStatusText.SetActive(true);
             StartCoroutine(RemoveAfterSeconds(3, PowerStatusText));
-            
-        }  
+
+        }
         else
         {
             OpenDoor.Door();
