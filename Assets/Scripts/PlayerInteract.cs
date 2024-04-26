@@ -15,6 +15,7 @@ public class PlayerInteract : MonoBehaviour
                if (collider.TryGetComponent(out ObjectInteract objectInteract))
                 {
                     objectInteract.Interact();
+                    objectInteract.Interact2();
                 }
             }
         }
