@@ -5,7 +5,6 @@ using UnityEngine;
 public class EscapePod : MonoBehaviour
 {
     [SerializeField] private GameObject UserInterface;
-    [SerializeField] private GameObject PlayerBody;
     [SerializeField] private GameObject Camera;
     private bool InCapsule = false;
 
@@ -29,7 +28,6 @@ public class EscapePod : MonoBehaviour
     private void Hide()
     {
         UserInterface.SetActive(false);
-        PlayerBody.SetActive(false);
     }
 
     private void Show()
@@ -46,6 +44,5 @@ public class EscapePod : MonoBehaviour
     private void Show2()
     {
         UserInterface.SetActive(true);
-        PlayerBody.SetActive(true);
     }
 }
